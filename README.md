@@ -1,7 +1,9 @@
-# HSG Power Week 1
+# HGS-Hire Power Week 1
 
 This is a repository to 
 
-a) collect some information (F.A.Q.) during the HGS Power week
+* provide the course slides (please pull regularly)
 
-b) to get familiar with github / git and related workflows
+* to get familiar with github / git and related workflows
+
+* collect some information (F.A.Q.) during the HGS Power week
